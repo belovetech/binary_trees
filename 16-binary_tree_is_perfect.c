@@ -41,7 +41,7 @@ int binary_tree_is_parent_full(const binary_tree_t *node)
  */
 int height(const binary_tree_t *tree)
 {
-	size_t left = 0, right = 0;
+	int left = 0, right = 0;
 
 	if (tree)
 	{
