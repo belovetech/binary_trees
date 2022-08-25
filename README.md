@@ -25,3 +25,6 @@ Project done during Full Stack Software Engineering studies at ALX Africa. It ai
 16-binary_tree_is_perfect.c	|Function that checks if a binary tree is perfect
 17-binary_tree_sibling.c|	Function that finds the sibling of a node
 18-binary_tree_uncle.c	|Function that finds the uncle of a node
+
+
+main directory - it conatins all the main.c files used to test each functions in the directory
